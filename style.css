@@ -1,0 +1,70 @@
+.buttonNumbers {
+    min-width: 70px;
+    min-height: 70px;
+}
+
+#delete {
+    min-width: 70px;
+    min-height: 70px;
+}
+
+#result {
+    min-width: 70px;
+    min-height: 70px;
+    background-color: black;
+    color: white;
+}
+
+.calc_body {
+    width: 400px;
+    height: 500px;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+.main_page {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.screen {
+    width: 320px;
+    height: 100px;
+    margin-top: 40px;
+    margin-left: 40px;
+    background-color: cornsilk;
+
+}
+
+
+
+#buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+#numbers {
+    width: 250px;
+}
+
+.operators {
+    width: 70px;
+    height: 70px;
+    background-color: rgba(235, 86, 6, 0.854);
+    border-radius: 10px;
+}
+
+#Operators {
+    width: 100px
+}
+
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
